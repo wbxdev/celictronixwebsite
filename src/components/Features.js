@@ -25,7 +25,7 @@ const Features = () => {
           </div>
           <div className="col m3">
             <i className="material-icons">build</i>
-            <h5>Data Recoveryt</h5>
+            <h5>Data Recovery</h5>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor dolore magna aliqua. Ut enim!</p>
           </div>
           <div className="col m3">
